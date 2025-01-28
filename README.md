@@ -1,2 +1,3 @@
 # TO-DO-LIST
-This is my first repo
+<b> This is a to do app</b><br>
+<i> By Jeet Shetty </i>
